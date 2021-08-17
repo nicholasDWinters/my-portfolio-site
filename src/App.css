@@ -10,3 +10,17 @@ img:hover {
 .About-paragraph {
   line-height: 170%;
 }
+
+.Resume-link {
+  text-decoration: none;
+  
+}
+
+.Resume-link:hover {
+  color:rgb(134, 70, 255);
+}
+
+.Resume-heading {
+  color:rgb(134, 70, 255);
+
+}
