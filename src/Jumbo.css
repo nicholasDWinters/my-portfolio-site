@@ -1,0 +1,33 @@
+
+  
+  .Jumbo {
+    height: 275px;
+    width: 100%;
+    display: flex;
+    position: relative;
+    align-items: center;
+    
+  }
+  
+  .Jumbo::before {
+    content: '';
+    background-image: url('https://media-exp1.licdn.com/dms/image/C4D16AQFMmGnr2EgMeg/profile-displaybackgroundimage-shrink_350_1400/0/1615311629585?e=1634774400&v=beta&t=Ov7Z3qhWf5BYQg4iGQOAA9tzgSOiQt5zy0IxVPC9bfk');
+    background-size: cover;
+    position: absolute;
+    
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    opacity: .30;
+  
+  }
+  
+  .Jumbo h1 {
+    
+    position: relative;
+    font-weight:400;
+    
+  }
+  
+  
