@@ -7,16 +7,16 @@ const Navigation = () => {
     return (
         <div className='col-lg-3 mt-2'>
             <Nav vertical pills className='nav nav-pills'>
-                <NavItem className='mb-4'>
+                <NavItem className=''>
                     <NavLink exact to="/" className='Navigation-link nav-link'>About Me</NavLink>
                 </NavItem>
-                <NavItem className='mb-4'>
+                <NavItem className=''>
                     <NavLink exact to="/resume" className='Navigation-link nav-link'>My Resume</NavLink>
                 </NavItem>
-                <NavItem className='mb-4'>
+                <NavItem className=''>
                     <NavLink exact to="/projects" className='Navigation-link nav-link'>My Projects</NavLink>
                 </NavItem>
-                <NavItem className='mb-4'>
+                <NavItem className=''>
                     <NavLink exact to="/contact" className='Navigation-link nav-link'>Contact</NavLink>
                 </NavItem>
             </Nav>
