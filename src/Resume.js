@@ -42,7 +42,7 @@ const Resume = () => {
                             Created 2 Capstone Projects (further detailed in the projects section) with a topic of my choosing, and 2 cumulative projects with an emphasis on the recent technologies studied in the curriculum.
                         </li>
                     </ul>
-                    <p className=''>Clubhouse Manager, Fairfield Hills Golf Course<span className='text-muted'>Jan. 2017 - Dec. 2020</span>
+                    <p className=''>Clubhouse Manager, Fairfield Hills Golf Course - <span className='text-muted'>Jan. 2017 - Dec. 2020</span>
                     </p>
                     <ul className='text-muted'>
                         <li>Managed all Clubhouse operations, including scheduling, payroll, purchasing, and inventory functions</li>
@@ -52,7 +52,7 @@ const Resume = () => {
                         <li>Managed the golf course Wordpress website and social media pages</li>
                         <li>Created over 50 episodes of 'The Sunday Swing', a weekly golf video series</li>
                     </ul>
-                    <p className=''>Assistant Golf Professional, Monona Golf Course<span className='text-muted'>Jan. 2016 - Nov. 2016</span>
+                    <p className=''>Assistant Golf Professional, Monona Golf Course - <span className='text-muted'>Jan. 2016 - Nov. 2016</span>
                     </p>
                     <ul className='text-muted'>
                         <li>Managed 8 person staff with an emphasis on customer service, efficiency, and profitability</li>
