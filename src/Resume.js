@@ -19,7 +19,7 @@ const Resume = () => {
                 <div className='col-lg-8'>
                     <p className='lead fs-4 Resume-heading'>Education</p>
                     <p className=''>Springboard Software Engineering Career Track - <span className='text-muted'>Feb. 2021 - Aug. 2021</span><br></br>
-                        <span className='text-muted'>Received Certification in August of 2021</span>
+                        <span className='text-muted'>Received Certification in August of 2021 </span><a className='fs-5 Resume-link' href='https://drive.google.com/file/d/1ZEcHQkcL98YdSN0OXAr0aCSpAQU6jL6Y/view?usp=sharing' target='_blank' rel='noreferrer'>View Certificate</a>
                     </p>
                     <p className='mt-4'>University of Wisconsin Oshkosh - <span className='text-muted'>2010 - 2012</span><br></br>
                         <span className='text-muted'>Bachelor of Business Administration - emphasis in Economics</span>
