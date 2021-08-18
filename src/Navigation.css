@@ -13,8 +13,10 @@
     text-decoration: none;
 }
 
-.Navigation-link.nav-link.active.nav-pills {
-    color: black;
+.Navigation-link.nav-link.active:hover {
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
 }
 
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
