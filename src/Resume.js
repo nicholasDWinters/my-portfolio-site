@@ -3,7 +3,7 @@ import './App.css';
 
 const Resume = () => {
     return (
-        <div className='col-lg-8 ms-4 mb-3'>
+        <div className='col-lg-8 ms-lg-4 mb-3'>
             <h3 className='display-6'>My Resume</h3>
             <a className='fs-4 Resume-link' href='https://drive.google.com/file/d/1Zc0gukJdWSQsWp_I8AIskJc7wEqtiHJ_/view?usp=sharing' target='_blank' rel='noreferrer'>View PDF</a>
             <div className='row d-flex align-items-center mt-3'>

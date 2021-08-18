@@ -4,7 +4,7 @@ import './App.css';
 
 const About = () => {
     return (
-        <div className='col-lg-8 ms-4'>
+        <div className='col-lg-8 ms-lg-4'>
             <h3 className='display-6'>About Me</h3>
             <div className='row d-flex justify-content-center align-items-center'>
                 <div className='col-lg-7'>

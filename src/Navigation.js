@@ -5,7 +5,7 @@ import './Navigation.css';
 
 const Navigation = () => {
     return (
-        <div className='col-lg-3 mt-2 mb-3'>
+        <div className='col-lg-3 mt-2'>
             <Nav vertical pills className='nav nav-pills'>
                 <NavItem className='mb-lg-3'>
                     <NavLink exact to="/" className='Navigation-link nav-link'>About Me</NavLink>

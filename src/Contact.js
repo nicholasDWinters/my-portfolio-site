@@ -42,7 +42,7 @@ const Contact = () => {
 
     }, [isShown]);
     return (
-        <div className='col-lg-8 ms-4'>
+        <div className='col-lg-8 ms-lg-4'>
             <div className={isShown} role="alert">
                 <strong>Message Sent!</strong> Nick will get back to you soon.
                 <button type="button" className="btn-close" data-bs-dismiss="alert" aria-label="Close" onClick={() => setIsShown('alert alert-primary alert-dismissible fade show d-none')}></button>
