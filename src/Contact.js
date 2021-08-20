@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
 import { send } from 'emailjs-com';
+import linkedin from './images/linkedin.png';
+import github from './images/github.png';
 
 // service_37egcdq
 
@@ -50,9 +52,9 @@ const Contact = () => {
             <h3 className='display-6 mb-3'>Nick Winters</h3>
             <div className=''>
 
-                <a className='fs-5 Resume-link me-5' href='https://www.linkedin.com/in/nicholasdwinters/' target='_blank' rel='noreferrer'>LinkedIn</a>
-                <a className='fs-5 Resume-link me-5' href='https://github.com/nicholasDWinters' target='_blank' rel='noreferrer'>GitHub</a>
-                <a className='fs-5 Resume-link me-5' href='https://drive.google.com/file/d/1Zc0gukJdWSQsWp_I8AIskJc7wEqtiHJ_/view?usp=sharing' target='_blank' rel='noreferrer'>Resume</a>
+                <a className='fs-5 Resume-link me-5' href='https://drive.google.com/file/d/1Zc0gukJdWSQsWp_I8AIskJc7wEqtiHJ_/view?usp=sharing' target='_blank' rel='noreferrer'>My Resume</a>
+                <a className='fs-5 Resume-link me-5' href='https://www.linkedin.com/in/nicholasdwinters/' target='_blank' rel='noreferrer'><img alt='linkedin' src={linkedin} style={{ height: '40px' }}></img></a>
+                <a className='fs-5 Resume-link me-5' href='https://github.com/nicholasDWinters' target='_blank' rel='noreferrer'><img alt='linkedin' src={github} style={{ height: '40px' }}></img></a>
                 <a className='fs-5 Resume-link d-block mt-3' href='https://drive.google.com/file/d/1ZEcHQkcL98YdSN0OXAr0aCSpAQU6jL6Y/view?usp=sharing' target='_blank' rel='noreferrer'>Certificate - Springboard Software Engineering Career Track</a>
                 <p className='fs-5 text-muted mt-3'>Think I might be a good fit at your company? Have a website you'd like me to build? Send me a message!</p>
                 <form onSubmit={onSubmit} className='mt-3 mb-5'>
