@@ -11,7 +11,7 @@ const Projects = () => {
 
             <div className='row d-flex align-items-center mt-4'>
                 <div className='col-lg-5'>
-                    <p className='lead fs-3 Resume-heading'>Filipe Barbosa Jiu Jitsu</p>
+                    <h4 className='lead fs-3 Resume-heading mb-3'>Filipe Barbosa Jiu Jitsu</h4>
                     <p className=''>
                         Site for Filipe Barbosa Brazilian Jiu Jitsu Academy in Baraboo, WI.
                     </p>
@@ -32,7 +32,7 @@ const Projects = () => {
 
             <div className='row d-flex align-items-center mt-3'>
                 <div className='col-lg-5 mt-2'>
-                    <p className='lead fs-3 Resume-heading'>My News</p>
+                    <h4 className='lead fs-3 Resume-heading mb-3'>My News</h4>
                     <p className=''>
                         Minimalist News website allowing registered users to save stories to their read list. Shows 20 recent articles about topic of user's choosing. <span className='text-danger'>Unfortunately, the News API doesn't allow free use in production apps, so my deployed site no longer functions. If curious to see a full version, please clone frontend and backend repos and register for an API key at </span><a href='https://newsapi.org/' target='_blank' rel='noreferrer'>https://newsapi.org/</a>
                     </p>
@@ -51,7 +51,7 @@ const Projects = () => {
 
             <div className='row d-flex align-items-center mt-3 mb-5'>
                 <div className='col-lg-5 mt-2'>
-                    <p className='lead fs-3 Resume-heading'>Jiu Jitsu Source</p>
+                    <h4 className='lead fs-3 Resume-heading mb-3'>Jiu Jitsu Source</h4>
                     <p className=''>
                         Site used by Jiu Jitsu practitioners to learn new techniques and keep notes on their training sessions.
                     </p>
