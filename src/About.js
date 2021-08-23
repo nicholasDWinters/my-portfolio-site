@@ -11,7 +11,7 @@ const About = () => {
                 <div className='col-lg-7'>
                     <h4 className='lead'>My name is Nick Winters, and I'm an emerging software engineer with a passion for web development. I've worked in the golf industry for close to 15 years, with management positions for the last 6 years.</h4>
                     <p className='About-paragraph'>
-                        I enjoyed my time in the golf industry, but was prompted by the 2020 pandemic to consider other, potentially more fulfilling opportunities. I had taken some web development online courses in the past, and have a strong passion for learning and problem solving. This sparked me to pursue a career in software engineering in 2021, and thanks to the 800+ hour software engineering curriculum at Springboard (graduated in August of 2021), my technical proficiencies include:
+                        I enjoyed my time in the golf industry, but was prompted by the 2020 pandemic to consider other, potentially more fulfilling opportunities. I had taken some web development online courses in the past, and have a strong passion for learning and problem solving. This sparked me to pursue a career in software engineering in 2021, and thanks to the 800+ hour curriculum at Springboard (graduated in August of 2021), my technical proficiencies include:
                     </p>
 
                     <h6 className='About-paragraph fw-light'>
