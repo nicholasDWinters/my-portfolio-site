@@ -22,7 +22,7 @@ const About = () => {
                     <img className='img-fluid mb-3' style={{ borderRadius: '20%' }} src={headshot} alt='nick headshot'></img>
                 </div>
             </div>
-            <div className='row d-flex align-items-center justify-content-center'>
+            <div className='row d-flex align-items-center justify-content-center mt-3'>
                 <div className='col-lg-7'>
                     <p className='About-paragraph'>In my free time, I enjoy working on websites for friends, playing video games, playing golf, and practicing Jiu Jitsu. I've been practicing Jiu Jitsu now for roughly 2.5 years, and am extremely passionate about it. Martial arts has taught me how to protect myself and the ones I love, but also how to solve difficult problems and stay calm in stressful scenarios.</p>
                 </div>
