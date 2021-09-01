@@ -8,9 +8,9 @@ const Resume = () => {
             <a className='fs-4 Resume-link' href='https://drive.google.com/file/d/1Zc0gukJdWSQsWp_I8AIskJc7wEqtiHJ_/view?usp=sharing' target='_blank' rel='noreferrer'>View PDF</a>
             <div className='row d-flex align-items-center mt-3'>
                 <div className='col-lg-8 mt-2'>
-                    <h4 className='lead fs-3 Resume-heading'>Skills</h4>
-                    <h6 className='fw-normal lh-base'>Software Engineering - <span className='text-muted'> HTML, CSS, Javascript, DOM, React, Redux, Node.js, Express.js, Python, Flask, SQL, PostgreSQL, TDD, OOP, UI/UX</span></h6>
-                    <h6 className='mt-4 fw-normal lh-base'>Industry - <span className='text-muted'> Strategic Planning, Social Media Management, Event Management, Customer Service, Public Speaking, Team Management</span></h6>
+                    <h4 className='lead fs-3 Resume-heading'>Software Engineering Skills</h4>
+                    <h6 className='fw-normal lh-base'>Languages - <span className='text-muted'> HTML, CSS, Javascript, React, Redux, Node.js, Express.js, Python, Flask, SQL, PostgreSQL, TDD, OOP, UI/UX, Bootstrap</span></h6>
+                    <h6 className='mt-4 fw-normal lh-base'>Programs - <span className='text-muted'> GIT (version control), GitHub, Visual Studio Code, Amazon Web Services, Heroku, WordPress</span></h6>
 
                 </div>
                 <div className='col-lg-4 mt-3 mb-3'><i className="fas fa-tools fa-9x"></i></div>
