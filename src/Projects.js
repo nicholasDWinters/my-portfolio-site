@@ -19,7 +19,7 @@ const Projects = () => {
                     <p className=''>
                         Tools used: React, JavaScript, Bootstrap, Heroku<br></br>
                         <a className='fs-5 Resume-link me-4' href='https://github.com/nicholasDWinters/filipe-barbosa-bjj.git' target='_blank' rel='noreferrer'>Source Code</a>
-                        <a className='fs-5 Resume-link me-4' href='https://bjj-wisconsin.herokuapp.com/' target='_blank' rel='noreferrer'>Deployed Site</a>
+                        <a className='fs-5 Resume-link me-4' href='https://master.d23miaqetu9du5.amplifyapp.com/about-us' target='_blank' rel='noreferrer'>Deployed Site</a>
                     </p>
                 </div>
                 <div className='col-lg-7'>
