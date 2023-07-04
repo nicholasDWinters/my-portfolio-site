@@ -7,7 +7,7 @@ const Jumbo = () => {
             <div className='row'>
                 <div className='col-lg-12 ps-5'>
                     <h1 className='display-4'>Hello, my name is Nick Winters.</h1>
-                    <h2 className='display-6'>Software Engineer / Web Developer</h2>
+                    <h2 className='display-6'>Software Engineer</h2>
                 </div>
 
             </div>
